@@ -1,0 +1,2 @@
+File is opened
+There is no file in such directory
